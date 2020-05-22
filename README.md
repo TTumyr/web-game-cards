@@ -1,2 +1,2 @@
-# web-game-cards
+# web-games-cards
 cardgames on web stack
